@@ -43,3 +43,4 @@ htmlcov/
 # Dataset
 UrbanSound8K/UrbanSound8K/audio
 .ipynb_checkpoints
+UrbanSound8K/cmp
