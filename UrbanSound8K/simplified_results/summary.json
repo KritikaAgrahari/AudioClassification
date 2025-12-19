@@ -1,0 +1,27 @@
+{
+  "experiment_date": "2025-12-17 11:42:08",
+  "total_experiments": 8,
+  "compression_ratios_tested": [
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "best_accuracy": 0.6055656382335148,
+  "best_configuration": {
+    "compression_ratio": 1.0,
+    "classifier": "svm",
+    "accuracy": 0.6055656382335148,
+    "precision": 0.6115530754849833,
+    "recall": 0.6055656382335148,
+    "f1_score": 0.6023010846181639,
+    "train_time": 3.653486967086792,
+    "test_time": 0.8254506587982178,
+    "train_samples": 4612,
+    "test_samples": 1653,
+    "feature_dim_original": 25,
+    "feature_dim_compressed": 25,
+    "compression_rate": 0.0,
+    "timestamp": "2025-12-17 11:42:08"
+  }
+}
